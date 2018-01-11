@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # .Net Core 1.4 Sample Application
 
 ### Entity Framework
@@ -22,3 +23,7 @@ Don't stop reading
 
 - [Asp Net Core Generic Repository Pattern](https://social.technet.microsoft.com/wiki/contents/articles/36510.asp-net-core-generic-repository-pattern.aspx) 
 - [Walkthrough Entity Framework Core 1.1 With Migrations](https://www.benday.com/2017/02/14/walkthrough-entity-framework-core-1-1-with-migrations)
+=======
+# sample
+net core learn sample
+>>>>>>> 0538469e606f3d2931abc8b2cfced410369d5176
