@@ -1,0 +1,40 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\BuildingBlocks\\Resilience\\Resilience.Http\\Resilience.Http.csproj",
+    "projectName": "Resilience.Http",
+    "projectPath": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\BuildingBlocks\\Resilience\\Resilience.Http\\Resilience.Http.csproj",
+    "outputPath": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\BuildingBlocks\\Resilience\\Resilience.Http\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard1.4"
+    ],
+    "frameworks": {
+      "netstandard1.4": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard1.4": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "target": "Package",
+          "version": "1.6.1"
+        },
+        "Microsoft.Extensions.Logging.Abstractions": {
+          "target": "Package",
+          "version": "1.1.2"
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "10.0.2"
+        },
+        "Polly": {
+          "target": "Package",
+          "version": "5.1.0"
+        }
+      }
+    }
+  }
+}

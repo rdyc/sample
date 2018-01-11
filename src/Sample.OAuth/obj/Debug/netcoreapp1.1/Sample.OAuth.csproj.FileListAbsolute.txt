@@ -1,0 +1,10 @@
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.OAuth\bin\Debug\netcoreapp1.1\Sample.OAuth.deps.json
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.OAuth\bin\Debug\netcoreapp1.1\Sample.OAuth.runtimeconfig.json
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.OAuth\bin\Debug\netcoreapp1.1\Sample.OAuth.runtimeconfig.dev.json
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.OAuth\bin\Debug\netcoreapp1.1\Sample.OAuth.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.OAuth\bin\Debug\netcoreapp1.1\Sample.OAuth.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.OAuth\obj\Debug\netcoreapp1.1\Sample.OAuth.csproj.CoreCompileInputs.cache
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.OAuth\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.OAuth\obj\Debug\netcoreapp1.1\Sample.OAuth.AssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.OAuth\obj\Debug\netcoreapp1.1\Sample.OAuth.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.OAuth\obj\Debug\netcoreapp1.1\Sample.OAuth.pdb

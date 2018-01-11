@@ -1,0 +1,14 @@
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\Sample.Object\bin\Debug\netstandard1.4\Sample.Object.deps.json
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\Sample.Object\bin\Debug\netstandard1.4\Sample.Object.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\Sample.Object\bin\Debug\netstandard1.4\Sample.Object.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\Sample.Object\obj\Debug\netstandard1.4\Sample.Object.csproj.CoreCompileInputs.cache
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\Sample.Object\obj\Debug\netstandard1.4\Sample.Object.AssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\Sample.Object\obj\Debug\netstandard1.4\Sample.Object.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\Sample.Object\obj\Debug\netstandard1.4\Sample.Object.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Object\bin\Debug\netstandard1.4\Sample.Object.deps.json
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Object\bin\Debug\netstandard1.4\Sample.Object.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Object\bin\Debug\netstandard1.4\Sample.Object.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Object\obj\Debug\netstandard1.4\Sample.Object.csproj.CoreCompileInputs.cache
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Object\obj\Debug\netstandard1.4\Sample.Object.AssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Object\obj\Debug\netstandard1.4\Sample.Object.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Object\obj\Debug\netstandard1.4\Sample.Object.pdb

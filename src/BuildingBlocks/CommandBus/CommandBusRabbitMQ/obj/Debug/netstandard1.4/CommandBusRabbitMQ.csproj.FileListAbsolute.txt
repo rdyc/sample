@@ -1,0 +1,7 @@
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\CommandBus\CommandBusRabbitMQ\bin\Debug\netstandard1.4\CommandBusRabbitMQ.deps.json
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\CommandBus\CommandBusRabbitMQ\bin\Debug\netstandard1.4\CommandBusRabbitMQ.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\CommandBus\CommandBusRabbitMQ\bin\Debug\netstandard1.4\CommandBusRabbitMQ.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\CommandBus\CommandBusRabbitMQ\obj\Debug\netstandard1.4\CommandBusRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\CommandBus\CommandBusRabbitMQ\obj\Debug\netstandard1.4\CommandBusRabbitMQ.AssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\CommandBus\CommandBusRabbitMQ\obj\Debug\netstandard1.4\CommandBusRabbitMQ.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\CommandBus\CommandBusRabbitMQ\obj\Debug\netstandard1.4\CommandBusRabbitMQ.pdb

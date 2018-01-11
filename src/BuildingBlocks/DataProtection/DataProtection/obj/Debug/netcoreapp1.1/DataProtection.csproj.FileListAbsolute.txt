@@ -1,0 +1,14 @@
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\DataProtection\DataProtection\bin\Debug\netcoreapp1.1\DataProtection.deps.json
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\DataProtection\DataProtection\bin\Debug\netcoreapp1.1\DataProtection.dll
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\DataProtection\DataProtection\bin\Debug\netcoreapp1.1\DataProtection.pdb
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\DataProtection\DataProtection\obj\Debug\netcoreapp1.1\DataProtection.csproj.CoreCompileInputs.cache
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\DataProtection\DataProtection\obj\Debug\netcoreapp1.1\DataProtection.AssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\DataProtection\DataProtection\obj\Debug\netcoreapp1.1\DataProtection.dll
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\DataProtection\DataProtection\obj\Debug\netcoreapp1.1\DataProtection.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\DataProtection\DataProtection\bin\Debug\netcoreapp1.1\DataProtection.deps.json
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\DataProtection\DataProtection\bin\Debug\netcoreapp1.1\DataProtection.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\DataProtection\DataProtection\bin\Debug\netcoreapp1.1\DataProtection.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\DataProtection\DataProtection\obj\Debug\netcoreapp1.1\DataProtection.csproj.CoreCompileInputs.cache
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\DataProtection\DataProtection\obj\Debug\netcoreapp1.1\DataProtection.AssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\DataProtection\DataProtection\obj\Debug\netcoreapp1.1\DataProtection.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\DataProtection\DataProtection\obj\Debug\netcoreapp1.1\DataProtection.pdb

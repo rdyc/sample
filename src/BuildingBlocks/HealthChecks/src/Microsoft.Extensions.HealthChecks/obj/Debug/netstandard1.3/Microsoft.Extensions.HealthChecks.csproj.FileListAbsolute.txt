@@ -1,0 +1,14 @@
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\HealthChecks\src\Microsoft.Extensions.HealthChecks\bin\Debug\netstandard1.3\Microsoft.Extensions.HealthChecks.deps.json
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\HealthChecks\src\Microsoft.Extensions.HealthChecks\bin\Debug\netstandard1.3\Microsoft.Extensions.HealthChecks.dll
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\HealthChecks\src\Microsoft.Extensions.HealthChecks\bin\Debug\netstandard1.3\Microsoft.Extensions.HealthChecks.pdb
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\HealthChecks\src\Microsoft.Extensions.HealthChecks\obj\Debug\netstandard1.3\Microsoft.Extensions.HealthChecks.csproj.CoreCompileInputs.cache
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\HealthChecks\src\Microsoft.Extensions.HealthChecks\obj\Debug\netstandard1.3\Microsoft.Extensions.HealthChecks.AssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\HealthChecks\src\Microsoft.Extensions.HealthChecks\obj\Debug\netstandard1.3\Microsoft.Extensions.HealthChecks.dll
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\HealthChecks\src\Microsoft.Extensions.HealthChecks\obj\Debug\netstandard1.3\Microsoft.Extensions.HealthChecks.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\HealthChecks\src\Microsoft.Extensions.HealthChecks\bin\Debug\netstandard1.3\Microsoft.Extensions.HealthChecks.deps.json
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\HealthChecks\src\Microsoft.Extensions.HealthChecks\bin\Debug\netstandard1.3\Microsoft.Extensions.HealthChecks.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\HealthChecks\src\Microsoft.Extensions.HealthChecks\bin\Debug\netstandard1.3\Microsoft.Extensions.HealthChecks.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\HealthChecks\src\Microsoft.Extensions.HealthChecks\obj\Debug\netstandard1.3\Microsoft.Extensions.HealthChecks.csproj.CoreCompileInputs.cache
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\HealthChecks\src\Microsoft.Extensions.HealthChecks\obj\Debug\netstandard1.3\Microsoft.Extensions.HealthChecks.AssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\HealthChecks\src\Microsoft.Extensions.HealthChecks\obj\Debug\netstandard1.3\Microsoft.Extensions.HealthChecks.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\HealthChecks\src\Microsoft.Extensions.HealthChecks\obj\Debug\netstandard1.3\Microsoft.Extensions.HealthChecks.pdb

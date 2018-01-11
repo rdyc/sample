@@ -1,0 +1,42 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\Sample.Concrete\\Sample.Concrete.csproj",
+    "projectName": "Sample.Concrete",
+    "projectPath": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\Sample.Concrete\\Sample.Concrete.csproj",
+    "outputPath": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\Sample.Concrete\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard1.4"
+    ],
+    "frameworks": {
+      "netstandard1.4": {
+        "projectReferences": {
+          "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\Sample.Contract\\Sample.Contract.csproj": {
+            "projectPath": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\Sample.Contract\\Sample.Contract.csproj"
+          },
+          "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\Sample.Object\\Sample.Object.csproj": {
+            "projectPath": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\Sample.Object\\Sample.Object.csproj"
+          },
+          "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\Sample.Concrete.Repository\\Sample.Concrete.Repository.csproj": {
+            "projectPath": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\Sample.Concrete.Repository\\Sample.Concrete.Repository.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard1.4": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "target": "Package",
+          "version": "1.6.1"
+        },
+        "AutoMapper": {
+          "target": "Package",
+          "version": "6.1.1"
+        }
+      }
+    }
+  }
+}

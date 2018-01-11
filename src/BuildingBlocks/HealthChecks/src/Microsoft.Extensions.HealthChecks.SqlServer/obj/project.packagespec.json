@@ -1,0 +1,36 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\BuildingBlocks\\HealthChecks\\src\\Microsoft.Extensions.HealthChecks.SqlServer\\Microsoft.Extensions.HealthChecks.SqlServer.csproj",
+    "projectName": "Microsoft.Extensions.HealthChecks.SqlServer",
+    "projectPath": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\BuildingBlocks\\HealthChecks\\src\\Microsoft.Extensions.HealthChecks.SqlServer\\Microsoft.Extensions.HealthChecks.SqlServer.csproj",
+    "outputPath": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\BuildingBlocks\\HealthChecks\\src\\Microsoft.Extensions.HealthChecks.SqlServer\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard1.3"
+    ],
+    "frameworks": {
+      "netstandard1.3": {
+        "projectReferences": {
+          "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\BuildingBlocks\\HealthChecks\\src\\Microsoft.Extensions.HealthChecks\\Microsoft.Extensions.HealthChecks.csproj": {
+            "projectPath": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\BuildingBlocks\\HealthChecks\\src\\Microsoft.Extensions.HealthChecks\\Microsoft.Extensions.HealthChecks.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard1.3": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "target": "Package",
+          "version": "1.6.1"
+        },
+        "System.Data.SqlClient": {
+          "target": "Package",
+          "version": "4.3.1"
+        }
+      }
+    }
+  }
+}

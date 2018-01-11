@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sample.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Sample.Api.Application.Commands.IdentifierCommandHandler`2">
+            <summary>
+            Provides a base implementation for handling duplicate request and ensuring idempotent updates, in the cases where
+            a requestid sent by client is used to detect duplicate requests.
+            </summary>
+            <typeparam firstName="T">Type of the command handler that performs the operation if request is not duplicated</typeparam>
+            <typeparam firstName="R">Return value of the inner command handler</typeparam>
+        </member>
+        <member name="M:Sample.Api.Application.Commands.IdentifierCommandHandler`2.CreateResultForDuplicateRequest">
+            <summary>
+            Creates the result value to return if a previous request was found
+            </summary>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Sample.Api.Application.Commands.IdentifierCommandHandler`2.Handle(Sample.Api.Application.Commands.IdentifiedCommand{`0,`1})" -->
+        <member name="M:Sample.Api.Controllers.ArtistController.Put(System.Int32,System.String)">
+            <summary>
+            Modify existing artist
+            </summary>
+            <param firstName="id"></param>
+            <param firstName="value"></param>
+        </member>
+        <member name="M:Sample.Api.Controllers.ArtistController.Delete(System.Int32)">
+            <summary>
+            Remove existing artist
+            </summary>
+            <param firstName="id"></param>
+        </member>
+        <member name="M:Sample.Api.Controllers.PersonController.Get">
+            <summary>
+            Get all persons
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Sample.Api.Controllers.PersonController.Post(Sample.Api.Application.Commands.CreatePersonCommand)">
+            <summary>
+            Add new person
+            </summary>
+            <param firstName="command"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Sample.Api.Exceptions.SampleDomainException">
+            <summary>
+            Exception type for domain exceptions
+            </summary>
+        </member>
+        <member name="M:Ordering.API.Application.IntegrationEvents.EventHandling.GracePeriodConfirmedIntegrationEventHandler.Handle(Ordering.API.Application.IntegrationEvents.Events.GracePeriodConfirmedIntegrationEvent)">
+            <summary>
+            Event handler which confirms that the grace period
+            has been completed and order will not initially be cancelled.
+            Therefore, the order process continues for validation. 
+            </summary>
+            <param name="event">       
+            </param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,28 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\Sample.Object\\Sample.Object.csproj",
+    "projectName": "Sample.Object",
+    "projectPath": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\Sample.Object\\Sample.Object.csproj",
+    "outputPath": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\Sample.Object\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard1.4"
+    ],
+    "frameworks": {
+      "netstandard1.4": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard1.4": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "target": "Package",
+          "version": "1.6.1"
+        }
+      }
+    }
+  }
+}

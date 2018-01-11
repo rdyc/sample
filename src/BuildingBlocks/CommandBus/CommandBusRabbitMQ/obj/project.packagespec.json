@@ -1,0 +1,28 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\BuildingBlocks\\CommandBus\\CommandBusRabbitMQ\\CommandBusRabbitMQ.csproj",
+    "projectName": "CommandBusRabbitMQ",
+    "projectPath": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\BuildingBlocks\\CommandBus\\CommandBusRabbitMQ\\CommandBusRabbitMQ.csproj",
+    "outputPath": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\BuildingBlocks\\CommandBus\\CommandBusRabbitMQ\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard1.4"
+    ],
+    "frameworks": {
+      "netstandard1.4": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard1.4": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "target": "Package",
+          "version": "1.6.1"
+        }
+      }
+    }
+  }
+}

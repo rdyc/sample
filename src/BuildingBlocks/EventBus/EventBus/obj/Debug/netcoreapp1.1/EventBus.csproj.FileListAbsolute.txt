@@ -1,0 +1,14 @@
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus\bin\Debug\netcoreapp1.1\EventBus.deps.json
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus\bin\Debug\netcoreapp1.1\EventBus.dll
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus\bin\Debug\netcoreapp1.1\EventBus.pdb
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus\obj\Debug\netcoreapp1.1\EventBus.csproj.CoreCompileInputs.cache
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus\obj\Debug\netcoreapp1.1\EventBus.AssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus\obj\Debug\netcoreapp1.1\EventBus.dll
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus\obj\Debug\netcoreapp1.1\EventBus.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\EventBus\EventBus\bin\Debug\netcoreapp1.1\EventBus.deps.json
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\EventBus\EventBus\bin\Debug\netcoreapp1.1\EventBus.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\EventBus\EventBus\bin\Debug\netcoreapp1.1\EventBus.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\EventBus\EventBus\obj\Debug\netcoreapp1.1\EventBus.csproj.CoreCompileInputs.cache
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\EventBus\EventBus\obj\Debug\netcoreapp1.1\EventBus.AssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\EventBus\EventBus\obj\Debug\netcoreapp1.1\EventBus.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\EventBus\EventBus\obj\Debug\netcoreapp1.1\EventBus.pdb

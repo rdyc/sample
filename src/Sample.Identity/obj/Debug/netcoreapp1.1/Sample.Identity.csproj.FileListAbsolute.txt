@@ -1,0 +1,9 @@
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Identity\bin\Debug\netcoreapp1.1\Sample.Identity.deps.json
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Identity\bin\Debug\netcoreapp1.1\Sample.Identity.runtimeconfig.json
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Identity\bin\Debug\netcoreapp1.1\Sample.Identity.runtimeconfig.dev.json
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Identity\bin\Debug\netcoreapp1.1\Sample.Identity.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Identity\bin\Debug\netcoreapp1.1\Sample.Identity.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Identity\obj\Debug\netcoreapp1.1\Sample.Identity.csproj.CoreCompileInputs.cache
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Identity\obj\Debug\netcoreapp1.1\Sample.Identity.AssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Identity\obj\Debug\netcoreapp1.1\Sample.Identity.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Identity\obj\Debug\netcoreapp1.1\Sample.Identity.pdb

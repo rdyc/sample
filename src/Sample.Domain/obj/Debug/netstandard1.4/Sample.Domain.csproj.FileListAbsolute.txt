@@ -1,0 +1,7 @@
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Domain\bin\Debug\netstandard1.4\Sample.Domain.deps.json
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Domain\obj\Debug\netstandard1.4\Sample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Domain\obj\Debug\netstandard1.4\Sample.Domain.AssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Domain\bin\Debug\netstandard1.4\Sample.Domain.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Domain\bin\Debug\netstandard1.4\Sample.Domain.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Domain\obj\Debug\netstandard1.4\Sample.Domain.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Domain\obj\Debug\netstandard1.4\Sample.Domain.pdb

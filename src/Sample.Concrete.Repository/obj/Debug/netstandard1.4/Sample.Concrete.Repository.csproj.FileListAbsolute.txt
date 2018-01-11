@@ -1,0 +1,11 @@
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Concrete.Repository\bin\Debug\netstandard1.4\Sample.Concrete.Repository.deps.json
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Concrete.Repository\bin\Debug\netstandard1.4\Sample.Concrete.Repository.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Concrete.Repository\bin\Debug\netstandard1.4\Sample.Concrete.Repository.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Concrete.Repository\obj\Debug\netstandard1.4\Sample.Concrete.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Concrete.Repository\obj\Debug\netstandard1.4\Sample.Concrete.Repository.AssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Concrete.Repository\obj\Debug\netstandard1.4\Sample.Concrete.Repository.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Concrete.Repository\obj\Debug\netstandard1.4\Sample.Concrete.Repository.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Concrete.Repository\bin\Debug\netstandard1.4\Sample.Contract.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Concrete.Repository\bin\Debug\netstandard1.4\Sample.Object.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Concrete.Repository\bin\Debug\netstandard1.4\Sample.Contract.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Concrete.Repository\bin\Debug\netstandard1.4\Sample.Object.pdb

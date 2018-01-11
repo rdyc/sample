@@ -1,0 +1,9 @@
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Infrastructure\bin\Debug\netstandard1.4\Sample.Infrastructure.deps.json
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Infrastructure\obj\Debug\netstandard1.4\Sample.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Infrastructure\obj\Debug\netstandard1.4\Sample.Infrastructure.AssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Infrastructure\bin\Debug\netstandard1.4\Sample.Infrastructure.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Infrastructure\bin\Debug\netstandard1.4\Sample.Infrastructure.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Infrastructure\bin\Debug\netstandard1.4\Sample.Domain.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Infrastructure\bin\Debug\netstandard1.4\Sample.Domain.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Infrastructure\obj\Debug\netstandard1.4\Sample.Infrastructure.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\Sample.Infrastructure\obj\Debug\netstandard1.4\Sample.Infrastructure.pdb

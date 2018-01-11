@@ -1,0 +1,14 @@
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\Resilience\Resilience.Http\bin\Debug\netstandard1.4\Resilience.Http.deps.json
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\Resilience\Resilience.Http\bin\Debug\netstandard1.4\Resilience.Http.dll
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\Resilience\Resilience.Http\bin\Debug\netstandard1.4\Resilience.Http.pdb
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard1.4\Resilience.Http.csproj.CoreCompileInputs.cache
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard1.4\Resilience.Http.AssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard1.4\Resilience.Http.dll
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard1.4\Resilience.Http.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\Resilience\Resilience.Http\bin\Debug\netstandard1.4\Resilience.Http.deps.json
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\Resilience\Resilience.Http\bin\Debug\netstandard1.4\Resilience.Http.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\Resilience\Resilience.Http\bin\Debug\netstandard1.4\Resilience.Http.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard1.4\Resilience.Http.csproj.CoreCompileInputs.cache
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard1.4\Resilience.Http.AssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard1.4\Resilience.Http.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\Resilience\Resilience.Http\obj\Debug\netstandard1.4\Resilience.Http.pdb

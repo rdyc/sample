@@ -1,0 +1,16 @@
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netcoreapp1.1\EventBus.Tests.deps.json
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netcoreapp1.1\EventBus.Tests.runtimeconfig.json
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netcoreapp1.1\EventBus.Tests.runtimeconfig.dev.json
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netcoreapp1.1\EventBus.Tests.dll
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netcoreapp1.1\EventBus.Tests.pdb
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netcoreapp1.1\EventBus.dll
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netcoreapp1.1\EventBusRabbitMQ.dll
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netcoreapp1.1\EventBusRabbitMQ.pdb
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus.Tests\bin\Debug\netcoreapp1.1\EventBus.pdb
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus.Tests\obj\Debug\netcoreapp1.1\EventBus.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus.Tests\obj\Debug\netcoreapp1.1\EventBus.Tests.AssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus.Tests\obj\Debug\netcoreapp1.1\EventBus.Tests.dll
+C:\Users\Ruddy\Documents\Projects\github\dotnet-architecture\eShopOnContainers\src\BuildingBlocks\EventBus\EventBus.Tests\obj\Debug\netcoreapp1.1\EventBus.Tests.pdb

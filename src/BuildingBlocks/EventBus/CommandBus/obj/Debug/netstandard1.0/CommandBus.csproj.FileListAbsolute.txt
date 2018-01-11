@@ -1,0 +1,7 @@
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\EventBus\CommandBus\bin\Debug\netstandard1.0\CommandBus.deps.json
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\EventBus\CommandBus\bin\Debug\netstandard1.0\CommandBus.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\EventBus\CommandBus\bin\Debug\netstandard1.0\CommandBus.pdb
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\EventBus\CommandBus\obj\Debug\netstandard1.0\CommandBus.csproj.CoreCompileInputs.cache
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\EventBus\CommandBus\obj\Debug\netstandard1.0\CommandBus.AssemblyInfo.cs
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\EventBus\CommandBus\obj\Debug\netstandard1.0\CommandBus.dll
+C:\Users\Ruddy\Documents\Projects\github\rdyc\Sample\src\BuildingBlocks\EventBus\CommandBus\obj\Debug\netstandard1.0\CommandBus.pdb

@@ -1,0 +1,55 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\BuildingBlocks\\HealthChecks\\src\\Microsoft.Extensions.HealthChecks.AzureStorage\\Microsoft.Extensions.HealthChecks.AzureStorage.csproj",
+    "projectName": "Microsoft.Extensions.HealthChecks.AzureStorage",
+    "projectPath": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\BuildingBlocks\\HealthChecks\\src\\Microsoft.Extensions.HealthChecks.AzureStorage\\Microsoft.Extensions.HealthChecks.AzureStorage.csproj",
+    "outputPath": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\BuildingBlocks\\HealthChecks\\src\\Microsoft.Extensions.HealthChecks.AzureStorage\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard1.3"
+    ],
+    "frameworks": {
+      "netstandard1.3": {
+        "projectReferences": {
+          "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\BuildingBlocks\\HealthChecks\\src\\Microsoft.Extensions.HealthChecks\\Microsoft.Extensions.HealthChecks.csproj": {
+            "projectPath": "C:\\Users\\Ruddy\\Documents\\Projects\\github\\rdyc\\Sample\\src\\BuildingBlocks\\HealthChecks\\src\\Microsoft.Extensions.HealthChecks\\Microsoft.Extensions.HealthChecks.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard1.3": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "target": "Package",
+          "version": "1.6.1"
+        },
+        "Microsoft.AspNetCore.Hosting": {
+          "target": "Package",
+          "version": "1.0.2"
+        },
+        "System.Threading.Tasks.Parallel": {
+          "target": "Package",
+          "version": "4.3.0"
+        },
+        "System.Threading.Thread": {
+          "target": "Package",
+          "version": "4.3.0"
+        },
+        "System.Threading.Tasks.Extensions": {
+          "target": "Package",
+          "version": "4.3.0"
+        },
+        "WindowsAzure.Storage": {
+          "target": "Package",
+          "version": "7.2.1"
+        }
+      },
+      "imports": [
+        "net46"
+      ]
+    }
+  }
+}

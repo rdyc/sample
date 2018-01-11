@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\Sample.Contract\Sample.Contract.csproj" />
+    <ProjectReference Include="..\Sample.Object\Sample.Object.csproj" />
+    <ProjectReference Include="..\Sample.Concrete.Repository\Sample.Concrete.Repository.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.1.1" />
+  </ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+  </PropertyGroup>
+</Project>
